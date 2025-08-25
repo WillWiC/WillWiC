@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillWiC
-- 👀 I’m currently studying Computer Science 
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m currently a University student studying Computer Science 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me via Git
 
