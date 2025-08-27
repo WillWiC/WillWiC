@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @WillWiC
-- 👀 I’m currently a University student studying Computer Science 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on learning together
+# Hey there, I'm William 👋
 
-Core Skills
+## 💻 Whoami
+Enthusiastic Computer Science Student passionate about learning to build scalable apps 🚀
+
+## ⭐ Currently Learning
+- React
+- Nodejs
+- Docker
+  
+## ⚡ Core Skills
+Core Language
 - C++
 - Python
 - Java
