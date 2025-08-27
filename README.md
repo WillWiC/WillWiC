@@ -5,7 +5,7 @@
 ## 💻 Whoami
 Enthusiastic Computer Science Student passionate about learning to build scalable apps 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=WillWiC&color=blue)
 </div>
 
 ## ⭐ Currently Learning
