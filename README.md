@@ -2,7 +2,17 @@
 - 👀 I’m currently a University student studying Computer Science 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on learning together
-- 📫 How to reach me via Git
+
+Core Skills
+- C++
+- Python
+- Java
+
+Web Development
+- HTML
+- CSS
+- JavaScript
+- React
 
 <!---
 WillWiC/WillWiC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
