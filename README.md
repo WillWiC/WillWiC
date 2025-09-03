@@ -3,7 +3,7 @@
 # Hey there, I'm William 👋
 
 ## 💻 Whoami
-Enthusiastic Computer Science Student passionate about learning to build scalable apps 🚀
+Enthusiastic Computer Science Student passionate about learning to build scalable apps and cool stuff 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WillWiC&color=blue)
 </div>
