@@ -8,10 +8,10 @@ Enthusiastic Computer Science Student passionate about learning to build scalabl
 ![Profile Views](https://komarev.com/ghpvc/?username=WillWiC&color=blue)
 </div>
 
-<div align="left">
+<div align="center">
 	
 ## ⭐ Currently Learning
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  ![C#](https://img.shields.io/badge/C%23-Learning-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </div>
 
 
@@ -23,7 +23,7 @@ Enthusiastic Computer Science Student passionate about learning to build scalabl
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<div align="left">
+<div align="center">
 
 ## 🎨 Frontend Skills
 
